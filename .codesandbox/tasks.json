@@ -4,11 +4,10 @@
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "run": {
-      "name": "run",
-      "command": "run",
-      "runAtStart": true
+    "yarn start": {
+      "name": "yarn start",
+      "command": "yarn start",
+      "runAtStart": false
     }
   }
 }
-git
