@@ -1,0 +1,17 @@
+p {
+   font-family:Verdana, Dejavu Sans, sans-serif;
+   background: rgb(40 0 00);
+   
+}
+#cool {
+   font-size: 36px;
+   color: rgb(0 0 160);
+}
+#cool-too {
+   background: rgb(0 100 0);
+   font-size: 24px;
+   font-weight: bold;
+}
+.3 {
+   font-size: 24px;
+}
